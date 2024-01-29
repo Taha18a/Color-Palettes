@@ -1,0 +1,92 @@
+.main {
+    display: flex;
+}
+.first {
+    background-color: rgb(116, 218, 230);
+    height: 30vh;
+    width: 33%;
+    margin: 20px;
+    justify-content: flex end;
+    align-items: flex-end;
+    display: flex;
+    border: 2px solid rgba(128, 128, 128, 0);
+}
+.a {
+    color: rgb(29, 70, 105);
+    background-color: rgb(212, 221, 214);
+    width: 100%;    
+    border: 2px black ;
+}
+a{
+    color: black;
+}
+.position{
+     position: absolute;
+     top: 50px;
+     right: 20px;
+
+}
+.second {
+    background-color: aqua;
+    height: 30vh;
+    width: 33%;
+    margin: 20px;
+    justify-content: flex end;
+    align-items: flex-end;
+    display: flex;
+    border: 2px solid rgba(128, 128, 128, 0);
+
+}
+.third {
+    background-color: aqua;
+    height: 30vh;
+    width: 33%;
+    margin: 20px;
+    justify-content: flex end;
+    align-items: flex-end;
+    display: flex;
+    border: 2px solid rgba(128, 128, 128, 0);
+
+}
+.fourth {
+
+    background-color: aqua;
+    height: 30vh;
+    width: 30%;
+    margin: 20px;
+    justify-content: flex end;
+    align-items: flex-end;
+    display: flex;
+    position: absolute;
+    top: 34%;
+    border: 2px solid rgba(128, 128, 128, 0);
+}
+.fifth {
+    background-color: aqua;
+    height: 30vh;
+    width: 30%;
+    margin: 20px;
+    justify-content: flex end;
+    align-items: flex-end;
+    display: flex;
+    position: absolute;
+    top: 34%;
+    right:33% ;
+    left: 33.5%;
+    border: 2px solid rgba(128, 128, 128, 0);
+}
+.sixth{
+    background-color: aqua;
+    height: 30vh;
+    width: 30%;
+    margin: 20px;
+    justify-content: flex end;
+    align-items: flex-end;
+    display: flex;
+    position: absolute;
+    top: 34%;
+    right:33% ;
+    left: 66.5%;
+    border: 2px solid rgba(128, 128, 128, 0);
+
+}

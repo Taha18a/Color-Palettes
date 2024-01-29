@@ -1,0 +1,243 @@
+.main{
+    display: flex;
+    color: white;
+}
+.a{
+    position: absolute;
+    left: 45%;
+    top: 1%;
+    color: #353b48;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #c8dce9;
+}
+.first {
+    background-color: #ff9ff3;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.second {
+    background-color: #feca57;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    left: 20.3%;
+}
+.third {
+    background-color: #ff6b6b;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    left: 40.3%;
+}
+.fourth {
+    background-color: #48dbfb;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    left: 60.3%;
+}
+.fifth {
+    background-color: #1dd1a1;
+    height: 20vh;
+    width: 18.1%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    left: 80.3%;
+}
+.sixth {
+    background-color: #f368e0;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 22.8%;
+}
+.seventh {
+    background-color: #ff9f43;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 22.8%;
+    left: 20.5%;
+}
+.eight{
+    background-color: #ee5253;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 22.8%;
+    left: 40.5%;
+}
+.nine{
+    background-color: #0abde3;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 22.8%;
+    left: 60.5%;
+}
+.ten{
+    background-color: #10ac84;
+    height: 20vh;
+    width: 18%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 22.8%;
+    left: 80.5%;
+}
+.onee{
+    background-color:#00d2d3 ;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 42.8%;
+}
+.twoo {
+    background-color:#54a0ff ;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 42.8%;
+    left: 20.5%;
+}
+.threee{
+    background-color:#5f27cd;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 42.8%;
+    left: 40.5%;
+}
+.fourr {
+    background-color:#c8d6e5 ;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 42.8%;
+    left: 60.5%;
+}
+.fivee {
+    background-color:#576574 ;
+    height: 20vh;
+    width: 18%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 42.8%;
+    left: 80.5%;
+
+}
+.sixx{
+    background-color:  #01a3a4;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 62.8%;
+}
+.sevenn{
+    background-color: #2e86de;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 62.8%;
+     left: 20.5%;
+}
+.eightt {
+    background-color: #341f97;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 62.8%;
+    left: 40.5%;
+}
+.ninee{
+    background-color:#8395a7;
+    height: 20vh;
+    width: 20%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 62.8%;
+    left: 60.5%;
+}
+.tenn {
+    background-color:#222f3e;
+    height: 20vh;
+    width: 18%;
+    margin: 1%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    top: 62.8%;
+    left: 80.5%;
+}
